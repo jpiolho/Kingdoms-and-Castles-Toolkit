@@ -137,3 +137,13 @@ Assets/alllanguage.csv
 .vs/castle/DesignTimeBuild/.dtbcache
 builds/Tools/steam/builder/
 .vs/
+
+# JPiolho
+Assets/Workspace/linux/*
+Assets/Workspace/linux.meta
+Assets/Workspace/osx/*
+Assets/Workspace/osx.meta
+Assets/Workspace/win32/*
+Assets/Workspace/win32.meta
+Assets/Workspace/win64/*
+Assets/Workspace/win64.meta
